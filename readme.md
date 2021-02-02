@@ -15,3 +15,6 @@ mkdir ~/.config/nvim && touch ~/.config/nvim/init.vim
 ```
 
 3. Copy your settings into init.vim
+
+4. Install plugin manager
+https://github.com/junegunn/vim-plug
