@@ -1,0 +1,22 @@
+[commit]
+    verbose = true
+    template = ~/.config/.gittemplates/commit
+
+[alias]
+    a = add
+
+    c = commit
+    cm = commit -m
+
+    df = diff --color --color-words --abbrev
+
+    co = checkout
+    cob = checkout -b
+
+    pso = push origin
+
+    pl = pull
+
+    st = status
+
+
